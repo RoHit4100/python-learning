@@ -18,3 +18,4 @@ def fun1(**kvargs):
     print(type(kvargs))
 
 fun1(name = 'rohit', city= 'thane')
+
