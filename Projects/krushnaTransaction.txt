@@ -1,0 +1,2 @@
+krushna: 5000
+Deposit: 100 		 Balance: 5100

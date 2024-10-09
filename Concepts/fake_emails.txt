@@ -1,0 +1,10 @@
+alex.jones@example.com
+sarah.miller@fakemail.com
+michael.smith@dummyemail.com
+emma.johnson@testdomain.org
+john.doe@fakemail.net
+sophia.brown@placeholdermail.com
+david.wilson@tempmail.org
+chris.evans@samplemail.com
+olivia.lee@mockmail.net
+jason.clark@notarealemail.com
